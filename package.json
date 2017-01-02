@@ -1,0 +1,9 @@
+{
+  "name": "redux-couchbase-lite",
+  "version": "0.0.1",
+  "description": "Redux middleware for sync store with couchbase-lite and vice versa. Get persistence, synchronization and offline data access.",
+  "main": "index.js",
+  "repository": "https://github.com/pronevich/redux-couchbase-lite.git",
+  "author": "Alexey Pronevich",
+  "license": "MIT"
+}
